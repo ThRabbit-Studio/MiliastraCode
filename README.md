@@ -6,7 +6,7 @@
 仓库的源码和Releases都进行了加密，密码为**千星沙箱的版本号**（在千星沙箱右下角）。
 
 ## 简介
-<img src="https://i1.hdslb.com/bfs/new_dyn/83dc09b56179ac60e7e9acc3523f6ffd3546964903856346.png"/>
+<img src="https://i1.hdslb.com/bfs/new_dyn/83dc09b56179ac60e7e9acc3523f6ffd3546964903856346.png" width=200 height=200/>
 基于千星沙箱的AI代码编辑器。让每一位奇匠享受代码的乐趣，提升作图效率。
 
 ## 使用方法
